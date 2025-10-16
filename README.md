@@ -66,7 +66,7 @@ covid19-sql-tableau-analysis/
 ---
 
 ## 🔗 Tableau Dashboard Link  
-👉 **Live Dashboard:** *(Paste your Tableau link here)*
+👉 **Live Dashboard:** *(https://public.tableau.com/app/profile/hariharan.jothimani/viz/CovidDashboard_17604722534450/Dashboard1)*
 
 ---
 
